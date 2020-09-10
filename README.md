@@ -1,2 +1,2 @@
 # Quiz-App
-Quiz App project
+Quiz App project made by me
